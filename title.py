@@ -13,3 +13,7 @@ st.markdown("**举头**望明月，低头思故乡。")
 
 # 显示文本内容,不支持Markdown语法
 st.text("这是一个简单的应用程序。")
+
+# 显示代码段
+st.code("print('Hello, World!')", language='python')
+
